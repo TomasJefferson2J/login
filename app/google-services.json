@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426963107082",
+    "project_id": "mi-base-de-datos-login",
+    "storage_bucket": "mi-base-de-datos-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426963107082:android:2f2ae709d5d2bae8608ef3",
+        "android_client_info": {
+          "package_name": "com.example.mibasededatoslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426963107082-6otvouq4c5tldr1ohbc0hojhpc0uq9f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUO38rhDfpJkdJ1-WG0tCPWmawaB5DTvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426963107082-6otvouq4c5tldr1ohbc0hojhpc0uq9f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
